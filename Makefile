@@ -1,7 +1,7 @@
 VERSION = 2
 PATCHLEVEL = 6
 SUBLEVEL = 32
-EXTRAVERSION = .21-ze_battery_is_life
+EXTRAVERSION = .21_ze_battery_is_life_2.0
 NAME = Man-Eating Seals of Antiquity
 
 # *DOCUMENTATION*
